@@ -12,10 +12,7 @@ gomb =Gomb.Gomb
 oraiMunka= Feladatok.Feladatok()
 
 oraiMunka.gombOsszekotese()
-oraiMunka.felGombElore()
-oraiMunka.leGombHatra()
-oraiMunka.jobraGombKarFel()
-oraiMunka.balraGombKarle()
+
 
 
 
