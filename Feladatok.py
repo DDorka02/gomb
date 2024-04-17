@@ -54,10 +54,6 @@ class Feladatok():
                 elif self.ev3.buttons.pressed()==[Button.CENTER]:
                     self.robot.stop(Stop.BRAKE)
                     logikai= False
-
-                
-                
-                
                 self.robot.stop(Stop.BRAKE)
 
 
